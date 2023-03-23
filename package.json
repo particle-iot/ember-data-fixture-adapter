@@ -1,7 +1,10 @@
 {
-  "name": "ember-data-fixture-adapter",
+  "name": "@particle/ember-data-fixture-adapter",
   "version": "2.0.0",
   "description": "The default blueprint for ember-cli addons.",
+  "publishConfig": {
+    "access": "public"
+  },
   "directories": {
     "doc": "doc",
     "test": "tests"
